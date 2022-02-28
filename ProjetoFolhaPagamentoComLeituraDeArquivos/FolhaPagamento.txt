@@ -1,0 +1,8 @@
+Chefe [nome=Roberto Chefe, numeroRegistro=1234, salarioBase=10000.0, adicionaFuncao=15.0, beneficioTerno=2500.0]Salário Final= R$14000.0
+Comissionado [nome=Joana Comissionada, numeroRegistro=1235, salarioBase=2000.0, comissao=20.0]Salário Final= R$2400.0
+Comissionado [nome=Paulo Comiisionado, numeroRegistro=1236, salarioBase=2300.0, comissao=22.0]Salário Final= R$2806.0
+Comissionado [nome=Maria Comissionada, numeroRegistro=1237, salarioBase=2500.0, comissao=25.0]Salário Final= R$3125.0
+Horista [nome=João Horista, numeroRegistro=1238, valorHora=50.35, numeroHoras=100]Salário Final= R$5035.0
+Horista [nome=Jose Horista, numeroRegistro=1239, valorHora=60.57, numeroHoras=100]Salário Final= R$6057.0
+Empreiteiro [nome=Pedro Empreiteiro, numeroRegistro=1240, valorEmpreitada=3500.0]Salário Final= R$3500.0
+Empreiteiro [nome=Ana Empreiteira, numeroRegistro=1241, valorEmpreitada=4250.0]Salário Final= R$4250.0
